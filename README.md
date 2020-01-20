@@ -4,4 +4,4 @@ Got the tiles and main character from https://assetstore.unity.com/packages/2d/e
 
 The enemies and hazards are handmade!
 
-Old project pushed to git. Wont update this.
+Old project pushed to git for sharing purposes. Wont update this.
